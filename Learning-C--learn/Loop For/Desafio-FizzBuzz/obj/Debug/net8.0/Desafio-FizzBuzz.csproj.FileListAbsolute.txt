@@ -1,0 +1,28 @@
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.exe
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.deps.json
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.pdb
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\refint\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.pdb
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio FizzBuzz\Desafio-FizzBuzz\obj\Debug\net8.0\ref\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\refint\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.pdb
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.exe
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.deps.json
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.dll
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\bin\Debug\net8.0\Desafio-FizzBuzz.pdb
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\Desafio-FizzBuzz.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop For\Desafio-FizzBuzz\obj\Debug\net8.0\ref\Desafio-FizzBuzz.dll

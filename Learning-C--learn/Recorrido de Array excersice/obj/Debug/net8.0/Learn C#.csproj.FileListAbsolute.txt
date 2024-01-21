@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\bin\Debug\net8.0\Learn C#.exe
+C:\Users\ghost\Learn C#\bin\Debug\net8.0\Learn C#.deps.json
+C:\Users\ghost\Learn C#\bin\Debug\net8.0\Learn C#.runtimeconfig.json
+C:\Users\ghost\Learn C#\bin\Debug\net8.0\Learn C#.dll
+C:\Users\ghost\Learn C#\bin\Debug\net8.0\Learn C#.pdb
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.dll
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\refint\Learn C#.dll
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.pdb
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\Learn C#.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\obj\Debug\net8.0\ref\Learn C#.dll

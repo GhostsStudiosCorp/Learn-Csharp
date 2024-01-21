@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\bin\Debug\net8.0\Challenge-juego-rol.exe
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\bin\Debug\net8.0\Challenge-juego-rol.deps.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\bin\Debug\net8.0\Challenge-juego-rol.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\bin\Debug\net8.0\Challenge-juego-rol.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\bin\Debug\net8.0\Challenge-juego-rol.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\refint\Challenge-juego-rol.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\Challenge-juego-rol.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-juego-rol\obj\Debug\net8.0\ref\Challenge-juego-rol.dll

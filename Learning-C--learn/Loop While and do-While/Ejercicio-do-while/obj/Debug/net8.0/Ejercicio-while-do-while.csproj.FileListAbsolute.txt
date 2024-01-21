@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\bin\Debug\net8.0\Ejercicio-while-do-while.exe
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\bin\Debug\net8.0\Ejercicio-while-do-while.deps.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\bin\Debug\net8.0\Ejercicio-while-do-while.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\bin\Debug\net8.0\Ejercicio-while-do-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\bin\Debug\net8.0\Ejercicio-while-do-while.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\refint\Ejercicio-while-do-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\Ejercicio-while-do-while.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercicio-while-do-while\obj\Debug\net8.0\ref\Ejercicio-while-do-while.dll

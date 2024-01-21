@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\bin\Debug\net8.0\Challenge-ReadLine.exe
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\bin\Debug\net8.0\Challenge-ReadLine.deps.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\bin\Debug\net8.0\Challenge-ReadLine.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\bin\Debug\net8.0\Challenge-ReadLine.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\bin\Debug\net8.0\Challenge-ReadLine.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\refint\Challenge-ReadLine.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\Challenge-ReadLine.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Challenge-ReadLine\obj\Debug\net8.0\ref\Challenge-ReadLine.dll

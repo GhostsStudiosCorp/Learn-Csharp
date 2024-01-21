@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\bin\Debug\net8.0\Ejercio-while.exe
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\bin\Debug\net8.0\Ejercio-while.deps.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\bin\Debug\net8.0\Ejercio-while.runtimeconfig.json
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\bin\Debug\net8.0\Ejercio-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\bin\Debug\net8.0\Ejercio-while.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\refint\Ejercio-while.dll
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.pdb
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\Ejercio-while.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Loop While and do-While\Ejercio-while\obj\Debug\net8.0\ref\Ejercio-while.dll

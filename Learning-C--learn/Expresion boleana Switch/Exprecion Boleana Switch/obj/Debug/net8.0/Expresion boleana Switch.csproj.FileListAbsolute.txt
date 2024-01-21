@@ -1,0 +1,14 @@
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Expresion boleana Switch\bin\Debug\net8.0\Expresion boleana Switch.exe
+C:\Users\ghost\Learn C#\Expresion boleana Switch\bin\Debug\net8.0\Expresion boleana Switch.deps.json
+C:\Users\ghost\Learn C#\Expresion boleana Switch\bin\Debug\net8.0\Expresion boleana Switch.runtimeconfig.json
+C:\Users\ghost\Learn C#\Expresion boleana Switch\bin\Debug\net8.0\Expresion boleana Switch.dll
+C:\Users\ghost\Learn C#\Expresion boleana Switch\bin\Debug\net8.0\Expresion boleana Switch.pdb
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.dll
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\refint\Expresion boleana Switch.dll
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.pdb
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\Expresion boleana Switch.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Expresion boleana Switch\obj\Debug\net8.0\ref\Expresion boleana Switch.dll
