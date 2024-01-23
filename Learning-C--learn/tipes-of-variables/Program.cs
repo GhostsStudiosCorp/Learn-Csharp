@@ -55,7 +55,7 @@ Console.WriteLine(shortenedString);
 # # Los tipos de referencia incluyen matrices, cadenas y clases.
 # 
 # https://learn.microsoft.com/api/achievements/share/es-es/GuillermoCopello-3737/X2GCRRTY?sharingId=3DEB30AEECE5D091
-*?
+*/
 
 
 
