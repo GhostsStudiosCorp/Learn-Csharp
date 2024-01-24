@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Manipulacion-de-matrices-methodos-auxiliares/1.0.0": {
+        "runtime": {
+          "Manipulacion-de-matrices-methodos-auxiliares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Manipulacion-de-matrices-methodos-auxiliares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

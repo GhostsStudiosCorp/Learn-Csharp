@@ -1,0 +1,15 @@
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\bin\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.exe
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\bin\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.deps.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\bin\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.runtimeconfig.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\bin\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\bin\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.sourcelink.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\refint\Manipulacion-de-matrices-methodos-auxiliares.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\Manipulacion-de-matrices-methodos-auxiliares.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Manipulacion-de-matrices-methodos-auxiliares\obj\Debug\net8.0\ref\Manipulacion-de-matrices-methodos-auxiliares.dll
