@@ -21,3 +21,9 @@ Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {d
 floatResult = value3 / (float)value1;
 
 Console.WriteLine($"Divide value3 by value1, display the result as a float: {floatResult}");
+/*
+# Tags
+* TryParse_Method
+* TryParse_Method_Excersice
+* Convert_Data_Excersice
+*/
