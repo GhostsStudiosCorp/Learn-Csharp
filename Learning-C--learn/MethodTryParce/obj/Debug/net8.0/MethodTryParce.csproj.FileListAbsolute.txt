@@ -1,0 +1,15 @@
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\bin\Debug\net8.0\MethodTryParce.exe
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\bin\Debug\net8.0\MethodTryParce.deps.json
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\bin\Debug\net8.0\MethodTryParce.runtimeconfig.json
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\bin\Debug\net8.0\MethodTryParce.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\bin\Debug\net8.0\MethodTryParce.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.sourcelink.json
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\refint\MethodTryParce.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\MethodTryParce.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\MethodTryParce\obj\Debug\net8.0\ref\MethodTryParce.dll
