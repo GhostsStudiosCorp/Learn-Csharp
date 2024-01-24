@@ -22,8 +22,25 @@ floatResult = value3 / (float)value1;
 
 Console.WriteLine($"Divide value3 by value1, display the result as a float: {floatResult}");
 /*
-# Tags
+# Tags about this lesson
 * TryParse_Method
 * TryParse_Method_Excersice
 * Convert_Data_Excersice
+* 
+* * Su objetivo era usar varias técnicas distintas para cambiar el tipo de datos de un valor determinado.
+* 
+* Usa la conversión implícita y se basa en el compilador de C# para realizar conversiones de ampliación. En los 
+* casos en los que el compilador no ha podido realizar una conversión implícita, usa conversiones explícitas. 
+* Usa el método ToString() para convertir explícitamente un tipo de datos numérico en un tipo de datos string.
+* 
+* Cuando ha necesitado realizar conversiones de restricción narrowing conversions, ha empleado varias técnicas diferentes. 
+* Usa el operador de conversión () cuando la conversión podía realizarse de forma segura y podía aceptar el truncamiento de 
+* valores después del decimal. También ha usado el método Convert() cuando quería realizar una conversión y usar reglas de 
+* redondeo comunes para llevar a cabo una conversión de restricción.
+* 
+* Por último, ha utilizado los métodos TryParse() cuando la conversión de un tipo de datos string a un tipo de datos 
+* numérico podría producir una excepción de conversión de tipos de datos.
+* 
+* Sin esta variedad de opciones, sería difícil trabajar en un lenguaje de programación con tipo. Afortunadamente, este
+* sistema de tipos y conversión bien ejecutado se puede usar para compilar aplicaciones sin errores.
 */
