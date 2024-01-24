@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manipulacion-de-matrices-methodos-auxiliares")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bccfe24032380dcb379f209bd7f0fb25b191408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8afbb49f68ca08bfc393f003ec8611c7373b93a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manipulacion-de-matrices-methodos-auxiliares")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manipulacion-de-matrices-methodos-auxiliares")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
