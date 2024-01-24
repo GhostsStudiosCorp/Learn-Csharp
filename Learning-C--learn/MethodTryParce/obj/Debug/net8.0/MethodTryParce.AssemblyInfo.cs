@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodTryParce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6243cd4a4b3126c6f40c9e80bec320608841b2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a1e127c724b4d115913a8a8bccdf0a622b4d23")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodTryParce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodTryParce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
