@@ -43,4 +43,15 @@ Console.WriteLine($"Divide value3 by value1, display the result as a float: {flo
 * 
 * Sin esta variedad de opciones, sería difícil trabajar en un lenguaje de programación con tipo. Afortunadamente, este
 * sistema de tipos y conversión bien ejecutado se puede usar para compilar aplicaciones sin errores.
+*
+*
+
+*
+*
+*
+*
+*
+*
+*
+*
 */
