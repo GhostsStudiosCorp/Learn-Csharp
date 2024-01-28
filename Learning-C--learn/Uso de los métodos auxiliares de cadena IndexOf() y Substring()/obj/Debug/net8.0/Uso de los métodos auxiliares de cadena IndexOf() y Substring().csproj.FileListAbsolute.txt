@@ -1,0 +1,15 @@
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\bin\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().exe
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\bin\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().deps.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\bin\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().runtimeconfig.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\bin\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\bin\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().sourcelink.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\refint\Uso de los métodos auxiliares de cadena IndexOf() y Substring().dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\Uso de los métodos auxiliares de cadena IndexOf() y Substring().genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Uso de los métodos auxiliares de cadena IndexOf() y Substring()\obj\Debug\net8.0\ref\Uso de los métodos auxiliares de cadena IndexOf() y Substring().dll
