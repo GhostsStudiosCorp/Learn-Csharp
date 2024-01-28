@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fedd13eac7758c95e4d6947034653173ea9f5127")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95f0f4fcee78d5252cf7d8b62ab409487c5c7f77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

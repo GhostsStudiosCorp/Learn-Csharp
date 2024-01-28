@@ -100,32 +100,29 @@ Console.WriteLine(yourDiscount);
 // You saved $7.56 off the regular $67.55 price. A discount of 11.19%! Crazyyyyyyyyyyyy :)
 
 /*
-// Resumen
+Resumen
+Estas son algunos de las conclusiones importantes de esta unidad sobre el formato 
+de cadenas:
 
-// Estas son algunos de las conclusiones importantes de esta unidad sobre el formato 
-// de cadenas:
+    Puede usar el formato compuesto o la interpolación de cadenas para dar formato 
+a las cadenas.
+    Con el formato compuesto, se usa una plantilla de cadena que contiene uno o más
+tokens de reemplazo con el formato {0}. También se proporciona una lista de 
+argumentos que se comparan con los tokens de reemplazo según su orden. El formato 
+compuesto funciona cuando se usa string.Format() o Console.WriteLine().
 
-//     Puede usar el formato compuesto o la interpolación de cadenas para dar formato 
-// a las cadenas.
+    Con la interpolación de cadenas, se usa una plantilla de cadena que contiene 
+los nombres de variable que se quieren reemplazar entre llaves. Se usa la directiva 
+$ antes de la plantilla de cadena para indicar que se quiere interpolar la cadena.
+    Se aplica formato a los valores de moneda mediante un especificador :C.
+    
+    Se aplica formato a los números mediante un especificador :N. La precisión 
+(el número de valores después del separador decimal) se controla mediante un número 
+después de :N, como en {myNumber:N3}.
 
-//     Con el formato compuesto, se usa una plantilla de cadena que contiene uno o más
-// tokens de reemplazo con el formato {0}. También se proporciona una lista de 
-// argumentos que se comparan con los tokens de reemplazo según su orden. El formato 
-// compuesto funciona cuando se usa string.Format() o Console.WriteLine().
+    Use el especificador de formato :P para dar formato a los porcentajes.
 
-//     Con la interpolación de cadenas, se usa una plantilla de cadena que contiene 
-// los nombres de variable que se quieren reemplazar entre llaves. Se usa la directiva 
-// $ antes de la plantilla de cadena para indicar que se quiere interpolar la cadena.
-
-//     Se aplica formato a los valores de moneda mediante un especificador :C.
-
-//     Se aplica formato a los números mediante un especificador :N. La precisión 
-// (el número de valores después del separador decimal) se controla mediante un número 
-// después de :N, como en {myNumber:N3}.
-
-//     Use el especificador de formato :P para dar formato a los porcentajes.
-
-//     El formato de moneda y número depende de la referencia cultural del usuario 
-// final, un código de cinco caracteres que incluye el país o la región y el idioma 
-// del usuario (según la configuración del equipo).
+    El formato de moneda y número depende de la referencia cultural del usuario 
+final, un código de cinco caracteres que incluye el país o la región y el idioma 
+del usuario (según la configuración del equipo).
 */
