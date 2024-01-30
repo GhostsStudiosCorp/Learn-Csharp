@@ -16,35 +16,35 @@ El método crea y devuelve una nueva cadena que consiste en los caracteres desde
 Si la longitud no se especifica, el método extraerá caracteres hasta el final de la cadena.
 */
 
-// string message = "What is the value<span>between the tags</span>";
+string message = "What is the value<span>between the tags</span>";
 
-// const string openSpan = "<span>";
-// const string openSpan = "</span>"; 
+const string openSpan = "<span>";
+const string closeSpan = "</span>"; 
 
-// int openPosition = message.IndexOf('<span>');
-// int closePosition = message.IndexOf('</span>');
+int openPosition = message.IndexOf("<span>");
+int closePosition = message.IndexOf("</span>");
 
-// openPosition += openSpan.length;
+openPosition += openSpan.Length;
 
-// int length = closePosition - openPosition;
-// Console.WriteLine(message.Substring(openPosition, length));
+int length = closePosition - openPosition;
+Console.WriteLine(message.Substring(openPosition, length));
 
 
 //##################################################################################################################################################
 
-// string message = "(What if) I am (only interesed) in the last  (set of parentheses)?";
-// while (true)
-// {
-//     int openPosition = message.IndexOf('(');
-//     if(openPosition == -1) break;
+string message = "(What if) I am (only interesed) in the last  (set of parentheses)?";
+while (true)
+{
+    int openPosition = message.IndexOf('(');
+    if(openPosition == -1) break;
 
-//     openPosition += 1;
-//     int closePosition = message.IndexOf(')');
-//     int length = closePosition - openPosition;
-//     Console.WriteLine(message.Substring(openPosition, length));
+    openPosition += 1;
+    int closePosition = message.IndexOf(')');
+    int length = closePosition - openPosition;
+    Console.WriteLine(message.Substring(openPosition, length));
 
-//     message = message.Substring(closePosition + 1);
-// } 
+    message = message.Substring(closePosition + 1);
+} 
 
 /*
 LastIndexOf() - Encontrar la última posición de un Substring:
@@ -58,59 +58,59 @@ Si encuentra el substring, devuelve el índice de la posición donde comienza la
 
 //##################################################################################################################################################
 
-// string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
+string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
 
-// char[] openSymbols = { '[', '{', '(' };
+char[] openSymbols = { '[', '{', '(' };
 
-// // You'll use a slightly different technique for iterating through 
-// // the characters in the string. This time, use the closing 
-// // position of the previous iteration as the starting index for the 
-// // next open symbol. So, you need to initialize the closingPosition 
-// // variable to zero:
+// You'll use a slightly different technique for iterating through 
+// the characters in the string. This time, use the closing 
+// position of the previous iteration as the starting index for the 
+// next open symbol. So, you need to initialize the closingPosition 
+// variable to zero:
 
-// int closePosition = 0;
+int closePosition = 0;
 
-// while (true)
-// {
-//     int openPosition = message.IndexOfAny(openSymbols);
+while (true)
+{
+    int openPosition = message.IndexOfAny(openSymbols);
 
-//     if (openPosition == -1) break;
+    if (openPosition == -1) break;
 
-//     string currentSymbol = message.Substring(openPosition, 1);
+    string currentSymbol = message.Substring(openPosition, 1);
 
-//     // Now  find the matching closing symbol
-//     char matchingSymbol = ' ';
+    // Now  find the matching closing symbol
+    char matchingSymbol = ' ';
 
-//     switch (currentSymbol)
-//     {
-//         case "[":
+    switch (currentSymbol)
+    {
+        case "[":
 
-//             matchingSymbol = ']';
-//             break;
+            matchingSymbol = ']';
+            break;
 
-//         case "{":
+        case "{":
 
-//             matchingSymbol = ']';
-//             break;
+            matchingSymbol = ']';
+            break;
 
-//         case "(":
+        case "(":
 
-//             matchingSymbol = ']';
-//             break;
+            matchingSymbol = ']';
+            break;
 
-//     }
+    }
 
-//     // To find the closingPosition, use an overload of the IndexOf method to specify 
-//     // that the search for the matchingSymbol should start at the openingPosition in the string. 
-//     openPosition += 1;
-//     closePosition = message.IndexOf(matchingSymbol, openPosition);
+    // To find the closingPosition, use an overload of the IndexOf method to specify 
+    // that the search for the matchingSymbol should start at the openingPosition in the string. 
+    openPosition += 1;
+    closePosition = message.IndexOf(matchingSymbol, openPosition);
 
-//     // Finally, use the techniques you've already learned to display the sub-string:
+    // Finally, use the techniques you've already learned to display the sub-string:
 
-//     int length = closePosition - openPosition;
-//     Console.WriteLine(message.Substring(openPosition, length));
+    int length = closePosition - openPosition;
+    Console.WriteLine(message.Substring(openPosition, length));
 
-// }
+}
 
 /*
 IndexOfAny(char[]) - Encontrar la Posición del Primer Carácter de un Conjunto:
@@ -126,9 +126,9 @@ Si encuentra un carácter del conjunto, devuelve el índice de la posición dond
 
 //##################################################################################################################################################
 
-// string data = "12345John Smith          5000  3  ";
-// string updatedData = data.Remove(5, 20);
-// Console.WriteLine(updatedData);
+string data = "12345John Smith          5000  3  ";
+string updatedData = data.Remove(5, 20);
+Console.WriteLine(updatedData);
 
 /*
 StringBuilder.Remove(int startIndex, int length) - Eliminar Caracteres en Posiciones Específicas:
