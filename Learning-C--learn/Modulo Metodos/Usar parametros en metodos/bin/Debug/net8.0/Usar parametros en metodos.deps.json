@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Usar parametros en metodos/1.0.0": {
+        "runtime": {
+          "Usar parametros en metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Usar parametros en metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

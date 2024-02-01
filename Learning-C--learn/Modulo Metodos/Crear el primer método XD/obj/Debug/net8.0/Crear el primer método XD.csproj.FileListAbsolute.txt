@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\bin\Debug\net8.0\Crear el primer método XD.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\bin\Debug\net8.0\Crear el primer método XD.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\bin\Debug\net8.0\Crear el primer método XD.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\bin\Debug\net8.0\Crear el primer método XD.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\bin\Debug\net8.0\Crear el primer método XD.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\refint\Crear el primer método XD.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\Crear el primer método XD.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Crear el primer método XD\obj\Debug\net8.0\ref\Crear el primer método XD.dll
