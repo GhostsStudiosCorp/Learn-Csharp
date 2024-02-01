@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\bin\Debug\net8.0\Ejercicio devolver cadenas.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\bin\Debug\net8.0\Ejercicio devolver cadenas.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\bin\Debug\net8.0\Ejercicio devolver cadenas.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\bin\Debug\net8.0\Ejercicio devolver cadenas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\bin\Debug\net8.0\Ejercicio devolver cadenas.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\refint\Ejercicio devolver cadenas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\Ejercicio devolver cadenas.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio devolver cadenas\obj\Debug\net8.0\ref\Ejercicio devolver cadenas.dll
