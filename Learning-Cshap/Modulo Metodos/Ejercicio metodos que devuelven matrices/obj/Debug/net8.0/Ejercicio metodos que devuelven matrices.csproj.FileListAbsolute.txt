@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\bin\Debug\net8.0\Ejercicio metodos que devuelven matrices.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\bin\Debug\net8.0\Ejercicio metodos que devuelven matrices.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\bin\Debug\net8.0\Ejercicio metodos que devuelven matrices.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\bin\Debug\net8.0\Ejercicio metodos que devuelven matrices.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\bin\Debug\net8.0\Ejercicio metodos que devuelven matrices.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\refint\Ejercicio metodos que devuelven matrices.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\Ejercicio metodos que devuelven matrices.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven matrices\obj\Debug\net8.0\ref\Ejercicio metodos que devuelven matrices.dll

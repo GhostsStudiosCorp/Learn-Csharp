@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\bin\Debug\net8.0\Ejercicio metodos que devuelven bools.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\bin\Debug\net8.0\Ejercicio metodos que devuelven bools.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\bin\Debug\net8.0\Ejercicio metodos que devuelven bools.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\bin\Debug\net8.0\Ejercicio metodos que devuelven bools.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\bin\Debug\net8.0\Ejercicio metodos que devuelven bools.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\refint\Ejercicio metodos que devuelven bools.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\Ejercicio metodos que devuelven bools.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio metodos que devuelven bools\obj\Debug\net8.0\ref\Ejercicio metodos que devuelven bools.dll

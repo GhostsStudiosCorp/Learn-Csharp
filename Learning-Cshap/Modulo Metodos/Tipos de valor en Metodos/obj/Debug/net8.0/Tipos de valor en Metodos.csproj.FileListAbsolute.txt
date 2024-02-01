@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\bin\Debug\net8.0\Tipos de valor en Metodos.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\bin\Debug\net8.0\Tipos de valor en Metodos.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\bin\Debug\net8.0\Tipos de valor en Metodos.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\bin\Debug\net8.0\Tipos de valor en Metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\bin\Debug\net8.0\Tipos de valor en Metodos.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\refint\Tipos de valor en Metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\Tipos de valor en Metodos.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Tipos de valor en Metodos\obj\Debug\net8.0\ref\Tipos de valor en Metodos.dll

@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\bin\Debug\net8.0\Challenge agregar mettodos al juego.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\bin\Debug\net8.0\Challenge agregar mettodos al juego.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\bin\Debug\net8.0\Challenge agregar mettodos al juego.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\bin\Debug\net8.0\Challenge agregar mettodos al juego.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\bin\Debug\net8.0\Challenge agregar mettodos al juego.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\refint\Challenge agregar mettodos al juego.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\Challenge agregar mettodos al juego.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge agregar mettodos al juego\obj\Debug\net8.0\ref\Challenge agregar mettodos al juego.dll

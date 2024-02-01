@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\bin\Debug\net8.0\Challenge email management.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\bin\Debug\net8.0\Challenge email management.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\bin\Debug\net8.0\Challenge email management.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\bin\Debug\net8.0\Challenge email management.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\bin\Debug\net8.0\Challenge email management.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\refint\Challenge email management.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\Challenge email management.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge email management\obj\Debug\net8.0\ref\Challenge email management.dll

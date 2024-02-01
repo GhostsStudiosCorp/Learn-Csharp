@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projecto Guiado Contoso Zoo/1.0.0": {
+        "runtime": {
+          "Projecto Guiado Contoso Zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projecto Guiado Contoso Zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
