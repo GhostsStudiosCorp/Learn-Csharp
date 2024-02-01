@@ -1,0 +1,15 @@
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\bin\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.exe
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\bin\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.deps.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\bin\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.runtimeconfig.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\bin\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\bin\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.sourcelink.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\refint\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion\obj\Debug\net8.0\ref\Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.dll

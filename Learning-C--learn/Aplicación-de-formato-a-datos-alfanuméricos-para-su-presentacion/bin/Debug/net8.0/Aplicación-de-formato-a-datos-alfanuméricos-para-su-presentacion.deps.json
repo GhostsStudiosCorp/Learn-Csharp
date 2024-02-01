@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion/1.0.0": {
+        "runtime": {
+          "Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicación-de-formato-a-datos-alfanuméricos-para-su-presentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
