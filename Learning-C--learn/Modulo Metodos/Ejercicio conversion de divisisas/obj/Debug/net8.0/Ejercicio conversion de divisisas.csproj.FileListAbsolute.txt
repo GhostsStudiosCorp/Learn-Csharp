@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\bin\Debug\net8.0\Ejercicio conversion de divisisas.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\bin\Debug\net8.0\Ejercicio conversion de divisisas.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\bin\Debug\net8.0\Ejercicio conversion de divisisas.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\bin\Debug\net8.0\Ejercicio conversion de divisisas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\bin\Debug\net8.0\Ejercicio conversion de divisisas.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\refint\Ejercicio conversion de divisisas.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\Ejercicio conversion de divisisas.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Ejercicio conversion de divisisas\obj\Debug\net8.0\ref\Ejercicio conversion de divisisas.dll
