@@ -1,73 +1,57 @@
-﻿// #Uso de TryParse()
+﻿int value1 = 12;
+decimal value2 = 6.2m;
+float value3 = 4.3f;
 
-// El método TryParse() realiza varias acciones al mismo tiempo:
+int intResult = 0;
+decimal decimalResult = 0m;
+float floatResult = 0f;
 
-// *Intenta analizar una cadena en el tipo de datos numérico indicado.
-// Si se ejecuta correctamente, almacena el valor convertido en un 
-// parámetro out, que se explica en la sección siguiente.
+// Solución para result1: Dividir value1 entre value2, mostrar el resultado como int
+// Hint: You need to round the result to nearest integer (don't just truncate)
+intResult = value1 / (int)value2;
 
-// *Devuelve un valor bool para indicar si la acción se ha podido 
-// realizar correctamente o no.
+Console.WriteLine($"Divide value1 by value2, display the result as an int: {intResult}");
 
-// *Podemos usar el valor booleano devuelto para realizar una acción 
-// en el valor (como llevar a cabo algún cálculo), o bien mostrar un mensaje si 
-// la operación de análisis no se ha realizado correctamente.
+// Solución para result2: Dividir value2 entre value3, mostrar el resultado como decimal
+decimalResult = value2 / (decimal)value3;
 
-string value = "102";
-int result = 0;
-if (int.TryParse(value, out result))
-{
-    Console.WriteLine($"Measurement: {result}");
-}
-else 
-{
-    Console.WriteLine("Unable to report the measurement");
-}
-Console.WriteLine($"Measurement (w/ offset): {50 + result}");
+Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {decimalResult}");
 
-// Para llamar a un método con un parámetro out, debe usar la palabra clave 
-// out delante de la variable que contiene el valor. El parámetro out se asigna
-//  a la variable result en el código (int.TryParse(value, out result). 
-//  Después, puede usar el valor que contiene el parámetro out en el resto del 
-//  código mediante la variable result.
+// Solución para result3: Dividir value3 entre value1, mostrar el resultado como float
+floatResult = value3 / (float)value1;
 
-// El método int.TryParse() devuelve true si se ha convertido con éxito la 
-// variable stringvalue en una int; en caso contrario, devuelve false. 
-// Así pues, encierre la instrucción en una instrucción if y, después, lleve a 
-// cabo la lógica de decisión en consecuencia.
+Console.WriteLine($"Divide value3 by value1, display the result as a float: {floatResult}");
+/*
+# Tags about this lesson
+* TryParse_Method
+* TryParse_Method_Excersice
+* Convert_Data_Excersice
+* 
+* * Su objetivo era usar varias técnicas distintas para cambiar el tipo de datos de un valor determinado.
+* 
+* Usa la conversión implícita y se basa en el compilador de C# para realizar conversiones de ampliación. En los 
+* casos en los que el compilador no ha podido realizar una conversión implícita, usa conversiones explícitas. 
+* Usa el método ToString() para convertir explícitamente un tipo de datos numérico en un tipo de datos string.
+* 
+* Cuando ha necesitado realizar conversiones de restricción narrowing conversions, ha empleado varias técnicas diferentes. 
+* Usa el operador de conversión () cuando la conversión podía realizarse de forma segura y podía aceptar el truncamiento de 
+* valores después del decimal. También ha usado el método Convert() cuando quería realizar una conversión y usar reglas de 
+* redondeo comunes para llevar a cabo una conversión de restricción.
+* 
+* Por último, ha utilizado los métodos TryParse() cuando la conversión de un tipo de datos string a un tipo de datos 
+* numérico podría producir una excepción de conversión de tipos de datos.
+* 
+* Sin esta variedad de opciones, sería difícil trabajar en un lenguaje de programación con tipo. Afortunadamente, este
+* sistema de tipos y conversión bien ejecutado se puede usar para compilar aplicaciones sin errores.
+*
+*
 
-// El valor convertido se almacena en la variable intresult. 
-// En la variable int, result se declara y se inicializa antes que esta línea 
-// de código, por lo que debería ser accesible tanto dentro de los bloques 
-// de código que pertenecen a las instrucciones if y else como fuera de ellos.
-
-// La palabra clave out indica al compilador que el método TryParse() no solo 
-// devolverá un valor de la manera tradicional (como valor devuelto), sino 
-// que también comunicará una salida mediante este parámetro bidireccional.
-
-// ##Modificación de la variable de cadena a un valor que no se pueda analizar
-
-// Por último, echemos un vistazo al otro escenario, en el que damos intenc
-// ionadamente a TryParse() un valor incorrecto que no se pueda convertir en 
-// int.
-
-string value = "bad";
-int result = 0;
-if (int.TryParse(value, out result))
-{
-   Console.WriteLine($"Measurement: {result}");
-}
-else
-{
-   Console.WriteLine("Unable to report the measurement.");
-}
-
-if (result > 0)
-   Console.WriteLine($"Measurement (w/ offset): {50 + result}");
-
-// Puesto que result se define fuera de la instrucción if, se puede acceder a 
-// result más adelante en el código fuera de los bloques de código. Por lo 
-// tanto, se puede comprobar que haya en result un valor mayor que cero antes 
-// de permitir que result + desplazamiento se escriba como salida. La comprobación 
-// de que el valor de result sea mayor que cero evita imprimir un valor de 
-// desplazamiento después del mensaje Unable to report the measurement..
+*
+*
+*
+*
+*
+*
+*
+*
+*/

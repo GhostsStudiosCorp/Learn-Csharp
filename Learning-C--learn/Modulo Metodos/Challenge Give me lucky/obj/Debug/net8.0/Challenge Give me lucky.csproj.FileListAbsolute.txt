@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\bin\Debug\net8.0\Challenge Give me lucky.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\bin\Debug\net8.0\Challenge Give me lucky.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\bin\Debug\net8.0\Challenge Give me lucky.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\bin\Debug\net8.0\Challenge Give me lucky.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\bin\Debug\net8.0\Challenge Give me lucky.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\refint\Challenge Give me lucky.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\Challenge Give me lucky.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Challenge Give me lucky\obj\Debug\net8.0\ref\Challenge Give me lucky.dll

@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\bin\Debug\net8.0\Usar parametros en metodos.exe
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\bin\Debug\net8.0\Usar parametros en metodos.deps.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\bin\Debug\net8.0\Usar parametros en metodos.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\bin\Debug\net8.0\Usar parametros en metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\bin\Debug\net8.0\Usar parametros en metodos.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.sourcelink.json
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\refint\Usar parametros en metodos.dll
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.pdb
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\Usar parametros en metodos.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-C--learn\Modulo Metodos\Usar parametros en metodos\obj\Debug\net8.0\ref\Usar parametros en metodos.dll

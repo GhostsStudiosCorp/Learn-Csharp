@@ -1,0 +1,15 @@
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\bin\Debug\net8.0\Exploración de la interpolación de cadenas.exe
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\bin\Debug\net8.0\Exploración de la interpolación de cadenas.deps.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\bin\Debug\net8.0\Exploración de la interpolación de cadenas.runtimeconfig.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\bin\Debug\net8.0\Exploración de la interpolación de cadenas.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\bin\Debug\net8.0\Exploración de la interpolación de cadenas.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.AssemblyInfoInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.AssemblyInfo.cs
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.sourcelink.json
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\refint\Exploración de la interpolación de cadenas.dll
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.pdb
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\Exploración de la interpolación de cadenas.genruntimeconfig.cache
+C:\Users\ghost\Learn C#\Learning-C--learn\Exploración de la interpolación de cadenas\obj\Debug\net8.0\ref\Exploración de la interpolación de cadenas.dll

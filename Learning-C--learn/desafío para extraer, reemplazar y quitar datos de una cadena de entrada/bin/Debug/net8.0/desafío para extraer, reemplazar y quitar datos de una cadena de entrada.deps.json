@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafío para extraer, reemplazar y quitar datos de una cadena de entrada/1.0.0": {
+        "runtime": {
+          "desafío para extraer, reemplazar y quitar datos de una cadena de entrada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafío para extraer, reemplazar y quitar datos de una cadena de entrada/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
