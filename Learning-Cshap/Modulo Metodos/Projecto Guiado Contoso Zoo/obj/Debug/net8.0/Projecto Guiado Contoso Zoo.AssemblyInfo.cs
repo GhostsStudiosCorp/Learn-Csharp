@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projecto Guiado Contoso Zoo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b601b4d717737a489323fbbf404c6ac1395d406a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162d35c8e0ddb5653553018bff81cf92016e8417")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projecto Guiado Contoso Zoo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projecto Guiado Contoso Zoo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

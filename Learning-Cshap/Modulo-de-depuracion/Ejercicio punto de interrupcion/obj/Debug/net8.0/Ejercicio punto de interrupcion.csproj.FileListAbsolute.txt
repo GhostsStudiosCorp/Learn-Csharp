@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\bin\Debug\net8.0\Ejercicio punto de interrupcion.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\bin\Debug\net8.0\Ejercicio punto de interrupcion.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\bin\Debug\net8.0\Ejercicio punto de interrupcion.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\bin\Debug\net8.0\Ejercicio punto de interrupcion.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\bin\Debug\net8.0\Ejercicio punto de interrupcion.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\refint\Ejercicio punto de interrupcion.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\Ejercicio punto de interrupcion.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Ejercicio punto de interrupcion\obj\Debug\net8.0\ref\Ejercicio punto de interrupcion.dll

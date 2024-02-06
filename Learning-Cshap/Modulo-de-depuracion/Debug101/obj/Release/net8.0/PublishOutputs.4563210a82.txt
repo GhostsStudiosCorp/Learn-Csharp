@@ -1,0 +1,5 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\publish\Debug101.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\publish\Debug101.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\publish\Debug101.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\publish\Debug101.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\publish\Debug101.pdb

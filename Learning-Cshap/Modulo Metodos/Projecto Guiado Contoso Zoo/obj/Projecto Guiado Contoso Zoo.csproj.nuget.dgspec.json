@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\copel\\LearnC#\\Learning-C--learn\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj": {}
+    "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\copel\\LearnC#\\Learning-C--learn\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj": {
+    "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\copel\\LearnC#\\Learning-C--learn\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj",
+        "projectUniqueName": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj",
         "projectName": "Projecto Guiado Contoso Zoo",
-        "projectPath": "C:\\Users\\copel\\LearnC#\\Learning-C--learn\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj",
+        "projectPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\Projecto Guiado Contoso Zoo.csproj",
         "packagesPath": "C:\\Users\\copel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\copel\\LearnC#\\Learning-C--learn\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\obj\\",
+        "outputPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Modulo Metodos\\Projecto Guiado Contoso Zoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\copel\\AppData\\Roaming\\NuGet\\NuGet.Config",

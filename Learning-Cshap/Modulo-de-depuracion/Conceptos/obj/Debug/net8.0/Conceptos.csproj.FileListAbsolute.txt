@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\bin\Debug\net8.0\Conceptos.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\bin\Debug\net8.0\Conceptos.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\bin\Debug\net8.0\Conceptos.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\bin\Debug\net8.0\Conceptos.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\bin\Debug\net8.0\Conceptos.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\refint\Conceptos.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\Conceptos.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Conceptos\obj\Debug\net8.0\ref\Conceptos.dll
