@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\bin\Debug\net8.0\Control de exepciones.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\bin\Debug\net8.0\Control de exepciones.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\bin\Debug\net8.0\Control de exepciones.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\bin\Debug\net8.0\Control de exepciones.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\bin\Debug\net8.0\Control de exepciones.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\refint\Control de exepciones.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\Control de exepciones.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Control de exepciones\obj\Debug\net8.0\ref\Control de exepciones.dll

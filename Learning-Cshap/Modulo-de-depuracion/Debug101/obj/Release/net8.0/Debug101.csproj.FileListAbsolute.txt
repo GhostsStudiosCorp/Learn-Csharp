@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\Debug101.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\Debug101.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\Debug101.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\Debug101.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\bin\Release\net8.0\Debug101.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\refint\Debug101.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\Debug101.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Debug101\obj\Release\net8.0\ref\Debug101.dll
