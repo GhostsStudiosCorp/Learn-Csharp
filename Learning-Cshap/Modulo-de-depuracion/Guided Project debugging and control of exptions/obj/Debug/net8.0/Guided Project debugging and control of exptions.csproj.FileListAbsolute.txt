@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\bin\Debug\net8.0\Guided Project debugging and control of exptions.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\bin\Debug\net8.0\Guided Project debugging and control of exptions.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\bin\Debug\net8.0\Guided Project debugging and control of exptions.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\bin\Debug\net8.0\Guided Project debugging and control of exptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\bin\Debug\net8.0\Guided Project debugging and control of exptions.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\refint\Guided Project debugging and control of exptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\Guided Project debugging and control of exptions.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Guided Project debugging and control of exptions\obj\Debug\net8.0\ref\Guided Project debugging and control of exptions.dll
