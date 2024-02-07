@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\bin\Debug\net8.0\Challenge for make and producer exeptions.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\bin\Debug\net8.0\Challenge for make and producer exeptions.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\bin\Debug\net8.0\Challenge for make and producer exeptions.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\bin\Debug\net8.0\Challenge for make and producer exeptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\bin\Debug\net8.0\Challenge for make and producer exeptions.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\refint\Challenge for make and producer exeptions.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\Challenge for make and producer exeptions.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge for make and producer exeptions\obj\Debug\net8.0\ref\Challenge for make and producer exeptions.dll
