@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Challenge Debugging an App/1.0.0": {
+        "runtime": {
+          "Challenge Debugging an App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge Debugging an App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

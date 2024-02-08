@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\bin\Debug\net8.0\Challenge Debugging an App.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\bin\Debug\net8.0\Challenge Debugging an App.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\bin\Debug\net8.0\Challenge Debugging an App.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\bin\Debug\net8.0\Challenge Debugging an App.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\bin\Debug\net8.0\Challenge Debugging an App.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\refint\Challenge Debugging an App.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\Challenge Debugging an App.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Challenge Debugging an App\obj\Debug\net8.0\ref\Challenge Debugging an App.dll
