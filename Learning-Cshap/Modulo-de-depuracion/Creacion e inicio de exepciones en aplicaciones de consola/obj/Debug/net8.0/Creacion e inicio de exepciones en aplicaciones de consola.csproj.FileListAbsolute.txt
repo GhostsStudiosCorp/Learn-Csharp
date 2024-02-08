@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\bin\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\bin\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\bin\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\bin\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\bin\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\refint\Creacion e inicio de exepciones en aplicaciones de consola.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\Creacion e inicio de exepciones en aplicaciones de consola.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Creacion e inicio de exepciones en aplicaciones de consola\obj\Debug\net8.0\ref\Creacion e inicio de exepciones en aplicaciones de consola.dll

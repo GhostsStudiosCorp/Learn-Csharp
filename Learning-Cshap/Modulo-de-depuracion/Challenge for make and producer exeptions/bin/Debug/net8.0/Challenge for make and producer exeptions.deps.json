@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Challenge for make and producer exeptions/1.0.0": {
+        "runtime": {
+          "Challenge for make and producer exeptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge for make and producer exeptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.sourcelink.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\bin\Debug\net8.0\Desafio exepciones especificas.exe
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\bin\Debug\net8.0\Desafio exepciones especificas.deps.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\bin\Debug\net8.0\Desafio exepciones especificas.runtimeconfig.json
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\bin\Debug\net8.0\Desafio exepciones especificas.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\bin\Debug\net8.0\Desafio exepciones especificas.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\refint\Desafio exepciones especificas.dll
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\Desafio exepciones especificas.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Learning-Cshap\Modulo-de-depuracion\Desafio exepciones especificas\obj\Debug\net8.0\ref\Desafio exepciones especificas.dll
