@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.AssemblyInfo.cs
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.sourcelink.json
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\bin\Debug\net8.0\25-array-excirses.exe
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\bin\Debug\net8.0\25-array-excirses.deps.json
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\bin\Debug\net8.0\25-array-excirses.runtimeconfig.json
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\bin\Debug\net8.0\25-array-excirses.dll
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\bin\Debug\net8.0\25-array-excirses.pdb
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.dll
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\refint\25-array-excirses.dll
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.pdb
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\25-array-excirses.genruntimeconfig.cache
+C:\Users\copel\LearnC#\Array-Excirses\25-array-excirses\obj\Debug\net8.0\ref\25-array-excirses.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
-      "projectName": "Convert-of-type-of-variables",
-      "projectPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
+      "projectUniqueName": "C:\\Users\\copel\\LearnC#\\Red-Black-Trees\\Red-Black-Tree\\Red-Black-Tree.csproj",
+      "projectName": "Red-Black-Tree",
+      "projectPath": "C:\\Users\\copel\\LearnC#\\Red-Black-Trees\\Red-Black-Tree\\Red-Black-Tree.csproj",
       "packagesPath": "C:\\Users\\copel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\obj\\",
+      "outputPath": "C:\\Users\\copel\\LearnC#\\Red-Black-Trees\\Red-Black-Tree\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\copel\\AppData\\Roaming\\NuGet\\NuGet.Config",
