@@ -1,4 +1,4 @@
-﻿Random random = new Random();
+﻿ bRandom random = new Random();
 int luck = random.Next(100);
 
 string[] text = { "You have much to", "Today is a day to", "Whatever work you do", "This is an ideal time to" };

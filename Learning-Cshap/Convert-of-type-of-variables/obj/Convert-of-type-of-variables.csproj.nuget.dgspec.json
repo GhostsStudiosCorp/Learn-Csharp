@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ghost\\Learn C#\\Learning-C--learn\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj": {}
+    "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ghost\\Learn C#\\Learning-C--learn\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj": {
+    "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ghost\\Learn C#\\Learning-C--learn\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
+        "projectUniqueName": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
         "projectName": "Convert-of-type-of-variables",
-        "projectPath": "C:\\Users\\ghost\\Learn C#\\Learning-C--learn\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
-        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ghost\\Learn C#\\Learning-C--learn\\Convert-of-type-of-variables\\obj\\",
+        "projectPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\Convert-of-type-of-variables.csproj",
+        "packagesPath": "C:\\Users\\copel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\copel\\LearnC#\\Learning-Cshap\\Convert-of-type-of-variables\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\copel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

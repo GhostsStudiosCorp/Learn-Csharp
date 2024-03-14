@@ -73,3 +73,5 @@ Console.WriteLine(value);
 
 int value2 = Convert.ToInt32(1.5m); // converting rounds up
 Console.WriteLine(value2);
+
+var lista = new List<Evaluaciones>();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Convert-of-type-of-variables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6654ef4461201d02e62560445ddeb01d34f75f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89af8b97be16645fc9cf45963f57012aacc28f61")]
 [assembly: System.Reflection.AssemblyProductAttribute("Convert-of-type-of-variables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Convert-of-type-of-variables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

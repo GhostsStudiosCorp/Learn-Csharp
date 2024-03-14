@@ -1,2 +1,4 @@
 /Proyecto guiado desarrollo de estructuras de bucle y bifurcación condicional en Csharp
 /Guided-project-Work-with-variable-data-in-CSharp-main
+/.vscode, bin, obj
+*.csproj, .sln
