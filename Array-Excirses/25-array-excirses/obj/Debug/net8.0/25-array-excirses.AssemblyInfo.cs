@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("25-array-excirses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89af8b97be16645fc9cf45963f57012aacc28f61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2786d29452f729e87dfbee2419693476cab6f266")]
 [assembly: System.Reflection.AssemblyProductAttribute("25-array-excirses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("25-array-excirses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

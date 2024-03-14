@@ -1,0 +1,15 @@
+C:\Users\copel\LearnC#\projects\Palindrome\bin\Debug\net8.0\Palindrome.exe
+C:\Users\copel\LearnC#\projects\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+C:\Users\copel\LearnC#\projects\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+C:\Users\copel\LearnC#\projects\Palindrome\bin\Debug\net8.0\Palindrome.dll
+C:\Users\copel\LearnC#\projects\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.dll
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+C:\Users\copel\LearnC#\projects\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll

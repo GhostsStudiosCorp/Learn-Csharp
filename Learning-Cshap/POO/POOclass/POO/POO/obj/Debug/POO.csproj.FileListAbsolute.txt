@@ -1,0 +1,7 @@
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\bin\Debug\POO.exe.config
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\bin\Debug\POO.exe
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\bin\Debug\POO.pdb
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\obj\Debug\POO.exe
+C:\Users\copel\LearnC#\Learning-Cshap\POO\POOclass\POO\POO\obj\Debug\POO.pdb

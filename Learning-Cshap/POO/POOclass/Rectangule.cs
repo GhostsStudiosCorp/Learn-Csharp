@@ -4,17 +4,24 @@ using system;
 class Rectangule
 {
     double height;
-    double weidth;
+    double width;
     string color;
+
+    public Rectangule()
+    {
+        this.height = 12;
+        this.width = 3;
+        this.color = "White";
+    }
 
     public double calculateArea()
     {
-        return height * weidth;
+        return height * width;
     }
 
     public double calculatePerimeter()
     {
 
-        return height * weidth;
+        return height * width;
     }
 }
